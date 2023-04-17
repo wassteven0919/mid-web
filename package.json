@@ -1,8 +1,8 @@
 {
-  "name": "mid-web",
+  "name": "midterm-website",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "wassteven <wassteven0919@gmail.com>",
+  "author": "doraeric <benson.doraemon@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "cd backend && yarn start",
